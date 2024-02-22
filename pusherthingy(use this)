@@ -1,2 +1,3 @@
 local user = "" --ur username
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalzzDev/pusher-thingy/main/pusher%20thingy"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrystalzzDev/notif/main/loadstring"))()
